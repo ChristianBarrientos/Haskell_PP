@@ -52,6 +52,7 @@ numerosPerfectos n=  [x | x <- [n,n-1..0], esPerfecto x]
 --map2 f(x) = map f(x)
 
 
+--PRIMEROS PASOS EN HASKELL :,)
 lucky :: Integer -> String
 lucky 7 = "El siete de la suerte"
 lucky x = "Lo siento, no es tu día de suerte"

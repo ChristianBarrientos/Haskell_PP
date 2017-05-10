@@ -1,4 +1,5 @@
-temperatura x= (9/5*x)+32
+--PRIMEROS PASOS EN HASKELL :,)
+
 
 sumatoria :: Int -> Int -> Int
 sumatoria x y = if x<y

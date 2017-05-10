@@ -1,3 +1,4 @@
+--PRIMEROS PASOS EN HASKELL :,)
 sumatoria :: Int-> Int-> Int
 sumatoria x y 
 
